@@ -4,8 +4,8 @@
 </div>
 
   <p align="center">
-    | 📝
-    <a href="https://quintessentialtuks.wixsite.com/acacia">Documentation</a>
+    | 🖥️
+    <a href="https://www.figma.com/design/cpG0icyvcVadga4Bj4w6xJ/Screen-Designs?node-id=0-1&t=Y0TkA9RCC4LYHYvM-1">Screen Designs</a>
     | 📋
     <a href="https://docs.google.com/document/d/1cSuGqHKMcwBrrwI5vtctK0PQG7akV_Ss/edit?usp=sharing&ouid=107271459588602317511&rtpof=true&sd=true">User Manual</a>
     | 🎥 
