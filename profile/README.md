@@ -57,19 +57,39 @@
   [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/bryony-asrie-67a469207/)
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/bryony-asrie-67a469207/)
   </div>
- </details>
+</details>
+ 
+<details>
+  <summary><h3>Aliyah Veipi</h3> </summary>
+  <div markdown="1">
+      <img align="left" height="380px" width="350px" style="object-fit: cover" src="https://static.wixstatic.com/media/3f8536_a00e55ee8a3f436f8a04700578a5ceab~mv2.jpg/v1/crop/x_130,y_154,w_944,h_1206/fill/w_405,h_518,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Aliyah_photshopped_edited.jpg" /> 
+    
+      <p>
+        Ambitious graduate seeking to embark on a career in consulting.
+        Possessing strong analytical skills, I thrive in dynamic environments
+        where I can apply my academic knowledge to real-world challenges.
+        With a keen eye for detail and a collaborative mindset, I am eager to
+        learn and contribute fresh perspectives to deliver innovative solutions
+      </p>
   
+  ![image](https://github-readme-stats.vercel.app/api?username=21504394&theme=noctis_minimus)
+    
+  [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/21504394)
+  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/aliyah-veipi-4ba799161/)
+  </div>
+</details>
+
 <details>
   <summary><h3>Mzamo Tembe</h3> </summary>
   <div markdown="1">
       <img align="left" height="380px" width="350px" style="object-fit: cover" src="https://static.wixstatic.com/media/3f8536_9294de5122b04572980ea6cc1bafa3c6~mv2.jpg/v1/fill/w_405,h_518,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/photo_2023-08-31_14-45-57_edited_edited_.jpg" /> 
     
       <p>
-        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+        BSc Hons Bioinformatics & Computational Biology student with a strong foundation in software development. 
+        Applied my knowledge as a Software Development Engineer Intern at Amazon Web Services, 
+        where I designed and developed an in-house operations tool for automating log data aggregation and analysis. 
+        Additionally, developed a project for EPI-USE, transitioning an in-store gift store 
+        to an online platform as part of my final year project. 
       </p>
     
   ![image](https://github-readme-stats.vercel.app/api?username=mzamotembe&theme=noctis_minimus)
@@ -118,25 +138,5 @@
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/caleb-thilmun-b44056151/)
   </div>
 </details> 
-  
-<details>
-  <summary><h3>Aliyah Veipi</h3> </summary>
-  <div markdown="1">
-      <img align="left" height="380px" width="350px" style="object-fit: cover" src="https://static.wixstatic.com/media/3f8536_a00e55ee8a3f436f8a04700578a5ceab~mv2.jpg/v1/crop/x_130,y_154,w_944,h_1206/fill/w_405,h_518,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Aliyah_photshopped_edited.jpg" /> 
-    
-      <p>
-        Ambitious graduate seeking to embark on a career in consulting.
-        Possessing strong analytical skills, I thrive in dynamic environments
-        where I can apply my academic knowledge to real-world challenges.
-        With a keen eye for detail and a collaborative mindset, I am eager to
-        learn and contribute fresh perspectives to deliver innovative solutions
-      </p>
-  
-  ![image](https://github-readme-stats.vercel.app/api?username=21504394&theme=noctis_minimus)
-    
-  [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/21504394)
-  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/aliyah-veipi-4ba799161/)
-  </div>
-</details>
 <br/>
 
